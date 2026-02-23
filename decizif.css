@@ -466,7 +466,6 @@ footer p { color:rgba(255,255,255,.28); font-size:.78rem; }
 /* ── RESPONSIVE ── */
 @media(max-width:900px){
   nav { padding:.7rem 1.5rem; }
-  .nav-links { display:none; }
   section { padding:4rem 1.5rem; }
   #hero { padding:7rem 1.5rem 4rem; }
   .about-grid,.why-grid,.contact-grid,.svc-grid { grid-template-columns:1fr; gap:2.5rem; }
