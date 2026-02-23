@@ -1,0 +1,105 @@
+# Décizif — llms.txt
+# Ce fichier aide les IA (ChatGPT, Perplexity, Claude, Gemini…) à comprendre
+# le contenu et les services de ce site.
+# Standard : https://llmstxt.org
+
+> Décizif est un cabinet de conseil indépendant basé à Rennes (Bretagne, France),
+> spécialisé en stratégie digitale, transformation par l'intelligence artificielle
+> et accompagnement à la levée de fonds pour startups.
+> Marque commerciale de la société JF2G.
+
+## Qui sommes-nous
+
+Décizif est fondé et dirigé par un entrepreneur avec plus de 20 ans d'expérience
+en stratégie digitale, direction d'entreprise et conseil en innovation.
+
+Parcours clé :
+- Fondateur & ex-CEO de l'agence Ouest Online (2004–2018, +100 projets, agence vendue)
+- DG & Associé WHIMUP — Fan Experience App (550 K€ levés, 10K users, 10 clubs L1)
+- Startup Advisor SKYLD — solution issue de la recherche INRIA (1,5 M€ levés)
+- Consultant DECIZIF depuis 2019 (+50 projets accompagnés)
+- Advisor French Tech Rennes (Le Poool)
+- Expert IA au CJD Rennes
+- Formateur MyDigital School Rennes
+- Associé Time For The Planet
+- Ingénieur ESEO
+
+## Positionnement
+
+- Consultant 100 % indépendant, sans affiliation à aucune agence ou prestataire
+- Posture de "tiers de confiance digital"
+- Approche orientée ROI, cas concrets et pédagogie
+- S'adresse aux dirigeants et décideurs (PME, ETI, startups)
+- Slogan : "Votre tiers de confiance digital"
+
+## Nos 3 accompagnements
+
+### 1. Refonte de site web & écosystème digital
+Cible : Dirigeants de PME et ETI
+Services :
+- Diagnostic et cadrage stratégique
+- Rédaction du cahier des charges
+- Sélection et comparaison de prestataires web
+- Pilotage de projet (AMOA)
+- Anticipation des enjeux SEO
+- Aide à la décision, grilles de sélection
+
+Valeur : Éviter les erreurs coûteuses lors d'une refonte digitale grâce à un
+accompagnement impartial, sans conflit d'intérêt avec les prestataires.
+
+### 2. Intelligence Artificielle & transformation numérique
+Cible : Dirigeants et équipes de PME/ETI
+Services :
+- Identification des cas d'usage IA à fort ROI
+- Formations IA pour dirigeants et managers (½ journée à plusieurs jours)
+- Déploiement d'assistants métier (LLM, GPT personnalisés)
+- Automatisations et workflows (Make, n8n…)
+- Gouvernance et charte IA
+- Diagnostic de maturité IA
+
+Valeur : Rendre l'IA concrète, accessible et productive pour les organisations,
+sans jargon technologique.
+
+### 3. Stratégie & levée de fonds startup
+Cible : Startups en amorçage
+Services :
+- Modèle économique, pricing, offre
+- Business plan et P&L prévisionnels
+- Stratégie GoToMarket
+- Pitch deck et data room
+- Valorisation et stratégie dilutive
+- Sourcing BA, VC, fonds d'investissement
+- Accompagnement au closing (due diligence, pacte associés)
+- Ateliers stratégie de financement (format 1 journée)
+
+Valeur : Un accompagnateur qui a lui-même levé des fonds et qui connaît les
+attentes réelles des investisseurs.
+
+## Réseaux & écosystème
+
+- CJD Rennes (Centre des Jeunes Dirigeants)
+- French Tech Rennes — Advisor au Poool
+- Village by CA
+- Bpifrance
+- MyDigital School Rennes (formateur)
+- Time For The Planet (associé)
+
+## Contact & localisation
+
+- Basé à Rennes, Bretagne, France
+- Interventions dans toute la France
+- LinkedIn : https://www.linkedin.com/in/jfgalles
+- Réponse sous 24h
+
+## Informations légales
+
+- Marque commerciale : Décizif
+- Société : JF2G
+- Siège social : Rennes, France
+
+## Ce que Décizif n'est PAS
+
+- Décizif n'est pas une agence web
+- Décizif n'a pas de prestataires affiliés et ne perçoit aucune commission
+- Décizif ne développe pas de sites web (accompagnement uniquement)
+- Décizif ne fait pas de SEO opérationnel (conseil et cadrage uniquement)
