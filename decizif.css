@@ -38,6 +38,15 @@ body.menu-open::before {
   pointer-events: none;
 }
 
+body.menu-open nav {
+  background: #0F1318;
+  backdrop-filter: none;
+}
+body.menu-open .nav-links {
+  background: #0F1318;
+  backdrop-filter: none;
+}
+
 
 /* ── NAV ── */
 nav {
